@@ -1,0 +1,65 @@
+// [2021.06.25 16:22:37] 
+// author: Alex or Ilgar Roshen or 951f5add73cadbd9738c6bdc387f0699, a52c3cb021210b2e62da5ef3b4d455f2
+// 7ed5af0df37ca8b2279938f8cb884fbe
+// 7c13cb85b19ea240922fa2c1aa8716c2
+// c7aebb3d6a04572ed48f8495eedd4088
+// bc537c061e8b2d3460a7cd32b941b4f8
+// 919eeb47f6814fc0f4ef479d92c91d5a
+// d30197117050d5ed7f071cd3ade4c7a8
+// 322b83c0c3deb76c56ba4e649234b8bd
+// file modified: manufacturer data of eggs [2021.06.25 16:28:45] 
+
+
+--------------------------------------------------------------------------------
+25.06.2019 : " pipi-360,  2; water-total-2000; calorie-1318, 2; [ hydration-ok 'seems ok'; ] " {
+
+12:43 start (woke-up: 08:50, 09:52, ~12:20; active-thinking: 1; active: 1; stand-up: 12:43)
+
+13:19 drinking: water(~200-ml); (" needed-very-little ")
+
+13:32 prepare: tea_1 = brew(tea-beta(1-ts) +water(~150-ml; ~99°C; 13:29)); (drain: 14:08; "note: ' tea brewed in a glass [from tomat-paste]; drinking in plastic or ...; the prepare time is the brew time '; ");
+13:34 prepare: egg_1 = flour(~0.1-ts) +egg(1; 'bought: 24.06'; ~13:34); ("~16.6*0.+154*0.65 = ~101 kcal; heating: ~13:34; stop: 13:36; ")
+
+13:43 eating: pepper-grean(1; '~60g'); ("~25*0.60 = ~15 kcal; done-consuming: ~13:48; opinion: ' good [for now] '; ")
+13:49 eating: toast(bread(~87g; '(2/3+1/3)*(0.25*350)g; [warn] 24.06')) +egg_1() +oil(10) +salt(~1-ml) +red-pepper(~0.4-ml); ("~248*0.875+81 = ~298 kcal; done-consuming: 13:57; opinion: ' good [for now] '; ")
+14:10 drinking: tea_1() +sugar(4) +water(~250-ml) +lemon-acid(~0.6-ml; 14:16); ("~35*3+35 = ~140 kcal; volume: 400-ml; opinion: ' ... '; done: 14:58; ");
+14:10 eating: bread(~34g; '~(0.2)*(0.25*680)g; 19.06'); ("~248*0.34 = ~84 kcal; done-consuming: 00000; opinion: ' ... '; ")
+14:24 status: calorie-calculated: "~15 + 298 + 140 + 84 = ~537 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+15:00 drinking: water(~200-ml); (" for-hydration ")
+15:42 drinking: water(~200-ml); (" for-hydration ")
+
+15:50 status: walk
+22:43 status: at-home
+
+22:50 drinking: water(~200-ml); (" needed ")
+23:30 drinking: water(~200-ml); (" for-hydration ")
+01:06 drinking: water(~200-ml); (" for-hydration ")
+01:08 drinking: water(~200-ml); (" for-hydration ")
+05:54 drinking: water(~200-ml); (" for-hydration ")
+
+02:07 prepare: tea_2 = brew(tea-beta(~0.8-ts) +red-pepper(1pinch) +mint(1pinch) +water(~150-ml; ~99°C; 02:05)); (drain: 02:42; "note: ' tea brewed in a glass [from tomat-paste]; drinking in plastic or ...; the prepare time is the brew time '; ");
+02:20 prepare: egg_1 = egg(1; 02:20); ("~154*0.65 = ~100 kcal; heating: 02:20; stop: 02:22; ")
+02:26 eating: toast(bread(~122g; '(2/3+1/3)*(0.25*490)g; [warn] 24.06')) +egg_1() +oil(~5) +salt(~1-ml) +red-pepper(~1-ml); ("~248*1.22+81*0.5 = ~343 kcal; done-consuming: 02:36; opinion: ' ... '; ")
+
+02:45 drinking: tea_2() +sugar(4) +water(~250-ml) +lemon-acid(1-ml; ~02:47); ("~35*3+35 = ~140 kcal; volume: 400-ml; opinion: ' ... '; done: 00000; ");
+02:47 eating: fry-toast(bread(~87g; '(1)*(0.25*350)g; 24.06') +oil(10) +salt(2-ml) +red-pepper(1-ml)); ("~248*0.875+81 = ~298 kcal; done-consuming: 02:52; opinion: ' ... '; heating: ~02:11:57; fry: ~02:13; toast: 02:15; turn: 02:17; stop: 02:19; ")
+02:55 status: calorie-calculated: "~343 + 140 + 298 = ~781 kcal"; " opinion: ' ... '; note: ' time-approximate-roughly '; ";
+
+
+
+
+-[goods] day-calorie: "~537 +  781  = ~1318 kcal "; 
+-[goods] day-calorie: "14:24, 02:55 =  2 times "; 
+-[goods] bread(000g; '~(0.2)*(0.25*680)+(1)*(0.25*490)+(2)*(0.25*350)g; 100g=248; bought: 19,24 in 06.2019;');
+-[goods] tea(00-ts; 'beta;'), sugar(00-ts; '1ts=9g;'), water(~000-ml), water-mixed(~000-ml; 'tea etc.;');
+-[goods] oil(~00-ml; 'sunflower;'), salt(~00-ml; '1ts=9ml=~11g;'), lemon-acid(~00-ml; '1ml=~1g; citric-acid;');
+-[goods] pepper-grean(1; '~60g, bell-pepper-sweet-green'), mint(2pinch);
+-[goods] egg(1; '1*65g; dates: [prd: 11.06; bought: 24.06] in 2019; manufacture: [ex.] G.. Q.;');
+-[goods] red-pepper(00-ml; '1ts=~5.3ml=~6.6g; bought: 00.06.2019; ');
+-[pipi] 15:10, 01:30
+-[pipi] '180', '180' = '360 ml'
+-[pipi] 'strong-yellow', 'strong-yellow'
+-[stool] no
+}
+
