@@ -1,0 +1,37 @@
+// [2021.06.25 14:43:19] 
+
+
+--------------------------------------------------------------------------------
+25.06.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+
+11:47 start (woke-up: 05:55, 11:47; active-thinking: 1; active: 1; stand-up: 11:47)
+
+11:54 status: " mouth-dry, feels-not-fresh " [2021.06.25 11:54:49] 
+
+12:33 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' warning: home-door was open '; ")
+
+13:05 status: " water 3-litre heating: ~13:05; boil: ; filled at ~13:05 from kitchen tap; boil for ~10 min. or more "
+
+13:48 status: " kidneys-pain suddenly and weird "
+
+13:48 prepare: tea_1 = brew(tea(1-ts; 'from-home another place') +water(~250-ml; '~99°C or just hot')); ("note: ' tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+
+14:08 drinking: tea_1-liquid(); ("~0 kcal; volume: ~220-ml; opinion: ' ... '; done: 00000; ");
+14:23 eating: carrot(~20g), oil(~20-ml); ("~51+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+00000 status: calorie-calculated: "~000 + 000 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+00000 status: " ... "
+
+
+
+
+-[goods] day-calorie: "~000 +  000 +  000 +  000 +  000 +  000 +  000  = ~0 kcal "; 
+-[goods] day-calorie: "00000, 00000, 00000, 00000, 00000, 00000, 00000 =  0 times "; 
+-[goods] tea(00-ts; '1ts=2g');
+-[goods] oil(~00-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~00-ml; '1ts=9ml=~11g');
+-[pipi] 12:06, 
+-[pipi] '340', 
+-[pipi] 'strong-yellow`', 
+-[stool] no
+}
+
