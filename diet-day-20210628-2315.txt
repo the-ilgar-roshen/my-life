@@ -1,0 +1,60 @@
+// [2021.06.28 23:15:09] 
+// remove this line: 3918BA29CF7A8A765093DE8384BD1D7BE91DBC692B2AA1AA5D91DCBE4B9E797A
+
+
+--------------------------------------------------------------------------------
+27.06.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+
+12:50 start (woke-up: 11:31, 12:48; active-thinking: 1; active: 1; stand-up: 12:50)
+
+12:56 drinking: water(~200-ml); (" reason: ' mouth-dry '; note: ' again ? '; ")
+13:10 drinking: water(~200-ml); (" reason: ' mouth-dry '; note: ' ... '; ")
+
+13:18 status: " water ~1-litr heating: ; boil: 13:45; filled at ~13:18 from kitchen tap; boil for ~10 min. or more "
+
+13:18 prepare: tea_1 = brew(carrot(5g) +tea(1-ts) +water(~250-ml; '~99°C or just hot')); ("note: ' tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+13:55 drinking: tea_1-liquid(); ("~0 kcal; volume: ~220-ml; opinion: ' ... '; done: 00000; ");
+13:55 eating: mix(cucumber(~40g) +salt(~0.5-ml) +oil(~10-ml)), bell-pepper(30g), oil(~20-ml); ("~15*0.4+28*0.3+81*2 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+13:58 status: calorie-calculated: "~000 + 000 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+15:22 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+18:12 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+20:11 status: " water ~2-litr heating: 20:11; boil: ; filled at 20:10 from kitchen tap; boil for ~10 min. or more "
+
+20:22 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+20:52 status: " this fasting thing does not go well " [write-time: 2021.06.28 20:52:08] 
+20:52 status: " body feels week especially legs and even not that easy to stay on feet " [write-time: 2021.06.28 20:52:39] 
+20:57 status: " this kind of [fasting] diet is not for poor people " [write-time: 2021.06.28 20:57:24] 
+
+21:57 prepare: beans_green_boiled_1 = boil(water(~250-ml; 'hot') +beans-green(20g; 'bought: 2021/06/19')); ("~25*0.2 = ~000 kcal; boiling: 22:08; stop: 22:28; note: ' boiled in ~plastic '; ")
+22:28 prepare: tea_with_beans_1 = brew(beans_green_boiled_1() +tea(1-ts) +water(~250-ml; '~99°C or just hot')); ("note: ' tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+22:50 prepare: hazelnuts_baked_1 = bake(hazelnuts(10-nuts; 'in_shell')); ("~628*0.1 = ~63 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+
+23:03 drinking: oil(~40-ml); ("~81*4 = ~324 kcal; volume: ~220-ml; opinion: ' ... '; done: 00000; ");
+23:03 drinking: tea_with_beans_1-liquid(); ("~0 kcal; volume: ~220-ml; opinion: ' ... '; done: 00000; ");
+23:03 eating: mix(eggplant(~70g) +salt(~0.5-ml) +oil(~20-ml)), salt(~0.5-ml); ("~25*0.7+81*2 = ~179 kcal; done-consuming: 00000; opinion: ' ... '; ")
+23:03 eating: hazelnuts_baked_1(), oil(~20-ml); ("~600+81*2 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+23:08 eating: tea_with_beans_1-beans(); ("~31*0.2+81*0 = ~6 kcal; done-consuming: 00000; opinion: ' ... '; ")
+23:08 status: calorie-calculated: "~324 + 0 + 179 + 000 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' time-approximate '; ";
+
+23:11 status: " amazing, an oil can be that fast ? " [write-time: 2021.06.28 23:11:59] 
+23:12 status: " I can walk now, without that fatigue " [write-time: 2021.06.28 23:12:31] 
+
+00000 status: " ... "
+
+
+
+
+-[goods] day-calorie: "~000 +  000 +  000 +  000 +  000 +  000 +  000  = ~0 kcal "; 
+-[goods] day-calorie: "00000, 00000, 00000, 00000, 00000, 00000, 00000 =  0 times "; 
+-[goods] day-calorie: " water ~2-litr heating: ~22:55; boil: ; filled at 22:30 from kitchen tap; boil for ~10 min. or more "; 
+-[goods] tea(00-ts; '1ts=2g');
+-[goods] oil(~00-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~00-ml; '1ts=9ml=~11g');
+-[pipi] 12:50, 23:32, 
+-[pipi] '280', '180', 
+-[pipi] 'strong-yellow', 'yellow', 
+-[stool] no
+}
+

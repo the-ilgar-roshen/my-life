@@ -1,0 +1,43 @@
+// [2021.06.28 20:54:47] 
+// remove this line: 8AAC541F4ECB478ED5F4288E894979A10BFF5FACC28D8651672DD9EA4AE75F7F
+
+--------------------------------------------------------------------------------
+27.06.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+
+12:50 start (woke-up: 11:31, 12:48; active-thinking: 1; active: 1; stand-up: 12:50)
+
+12:56 drinking: water(~200-ml); (" reason: ' mouth-dry '; note: ' again ? '; ")
+13:10 drinking: water(~200-ml); (" reason: ' mouth-dry '; note: ' ... '; ")
+
+13:18 status: " water ~1-litr heating: ; boil: 13:45; filled at ~13:18 from kitchen tap; boil for ~10 min. or more "
+
+13:18 prepare: tea_1 = brew(carrot(5g) +tea(1-ts) +water(~250-ml; '~99°C or just hot')); ("note: ' tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+13:55 drinking: tea_1-liquid(); ("~0 kcal; volume: ~220-ml; opinion: ' ... '; done: 00000; ");
+13:55 eating: mix(cucumber(~40g) +salt(0.5) +oil(~10-ml)), bell-pepper(30g), oil(~20-ml); ("~51+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+13:58 status: calorie-calculated: "~000 + 000 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+15:22 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+18:12 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+20:11 status: " water ~2-litr heating: 20:11; boil: ; filled at 20:10 from kitchen tap; boil for ~10 min. or more "
+
+20:22 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+" this fasting thing does not go well " [write-time: 2021.06.28 20:52:08] 
+" body feels week especially legs and even not that easy to stay on feet " [write-time: 2021.06.28 20:52:39] 
+
+00000 status: " ... "
+
+
+
+
+-[goods] day-calorie: "~000 +  000 +  000 +  000 +  000 +  000 +  000  = ~0 kcal "; 
+-[goods] day-calorie: "00000, 00000, 00000, 00000, 00000, 00000, 00000 =  0 times "; 
+-[goods] tea(00-ts; '1ts=2g');
+-[goods] oil(~00-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~00-ml; '1ts=9ml=~11g');
+-[pipi] 12:50, 
+-[pipi] '280', 
+-[pipi] 'strong-yellow', 
+-[stool] no
+}
+
