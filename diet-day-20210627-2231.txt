@@ -1,0 +1,44 @@
+// [2021.06.27 22:31:40] 
+// remove this line: 98B76A6738B6826A06E9FE9764B51B15A17D6C768AC1F88FBD425A1EB1C3C968
+
+--------------------------------------------------------------------------------
+27.06.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+
+14:32 start (woke-up: 13:04, 14:27; active-thinking: 1; active: 14:32; stand-up: 14:33)
+
+14:21 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+14:50 prepare: tea_1 = brew(tea(1-ts) +water(~250-ml; '~99°C or just hot')); ("note: ' tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+
+15:35 drinking: tea_1-liquid(); ("~0 kcal; volume: ~220-ml; opinion: ' ... '; done: 00000; ");
+15:35 eating: mix(cucumber(86g) +salt(~0.5-ml) +oil(~20-ml)); ("~25*0.86+81*2 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+15:35 eating: apple(~20g; '~thin slice from 80g which was from a whole apple [~150g]'), oil(~30-ml); ("~51*0.2+81*3 = ~253 kcal; done-consuming: 00000; opinion: ' ... '; ")
+15:35 eating: eggplant-skin(~10g), eggplant(34g), carrot(~5g); ("~25*0.44+40*0.05+81*0 = ~13 kcal; done-consuming: 00000; opinion: ' ... '; ")
+15:40 status: calorie-calculated: "~0 + 000 + 253 + 13 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+20:29 eating: mix(cucumber(110g) +salt(~0.5-ml) +oil(~10-ml)); ("~25*1.1+81*1 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+20:29 status: calorie-calculated: "~000 + 000 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+20:40 prepare: tea_with_carrot_1 = brew(tea(1-ts) +carrot(5g) +water(~250-ml; '~99°C or just hot')); ("note: ' tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+
+20:55 eating: plum(~60g; '1 whole'), garlic(~10g), oil(~10-ml); ("~46*0.6+149*0.1+81*1 = ~123 kcal; done-consuming: 00000; opinion: ' ... '; ")
+21:03 drinking: tea_with_carrot_1-liquid() +citric-acid(~0.5-ml); ("~0 kcal; volume: ~220-ml; opinion: ' ... '; done: 00000; ");
+21:03 eating: bell-pepper(43g), apple(~20g; '~thin slice from 80g ...'); ("~28*0.43+51*0.2 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+21:03 eating: plum(~70g; '1 whole'), eggplant(~20g) +salt(~0.5-ml), oil(~40-ml); ("~46*0.7+25*0.2+81*4 = ~361 kcal; done-consuming: 00000; opinion: ' ... '; ")
+21:08 status: calorie-calculated: "~123 + 0 + 22 + 253 + 361 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+00000 status: " ... "
+
+
+
+
+-[goods] day-calorie: "~000 +  000 +  000 +  000 +  000 +  000 +  000  = ~0 kcal "; 
+-[goods] day-calorie: "15:40, 00000, 00000, 00000, 00000, 00000, 00000 =  0 times "; 
+-[goods] tea(2-ts; '1ts=2g');
+-[goods] oil(~110-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~1.5-ml; '1ts=9ml=~11g');
+-[pipi] 14:35, 
+-[pipi] '180', 
+-[pipi] 'yellow', 
+-[stool] 18:06
+}
+
