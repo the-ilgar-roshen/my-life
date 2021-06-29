@@ -1,5 +1,5 @@
-// [2021.06.29 23:05:33] 
-// remove this line: 4BE319F6D001E4C9F335B99332A5B82FE97E95B552F3AB9E0018E0CDBBB13F3E
+// [2021.06.29 23:51:22] 
+// remove this line: EF448777AA84E3E82DA543EF1F11A7B3304DFAAADEC6BD604DF61AF758B1CF5D
 
 --------------------------------------------------------------------------------
 28.06.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
@@ -11,17 +11,17 @@
 14:00 status: " actually, sleepy or so; either, need[s] more sleep to get rid of this sleepiness or tea " [write-time: 2021.06.29 14:00:10] 
 14:02 status: " better to have a cup of tea than sleep whole day long " [write-time: 2021.06.29 14:02:26] 
 
-14:14 prepare: tea_1 = brew(eggplant-skin(10g) +water(~250-ml; '~99°C or just hot') +tea(1-ts; 14:20)); ("note: ' tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+14:14 prepare: tea_with_eggplant_1 = brew(eggplant-skin(10g) +water(~250-ml; '~99°C or just hot') +tea(1-ts; 14:20)); ("note: ' tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
 
-14:45 drinking: tea_1-liquid(); ("~0 kcal; volume: ~220-ml; opinion: ' ... '; done: 00000; ");
+14:45 drinking: tea_with_eggplant_1-liquid(); ("~0 kcal; volume: ~220-ml; opinion: ' ... '; done: 00000; ");
 14:45 eating: mix(eggplant(~20g) +salt(~0.5-ml) +oil(~20-ml)); ("~51+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
 14:49 status: calorie-calculated: "~000 + 000 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
 
-16:52 prepare: meal_1 = fry(beetroot(90g) +carrot(60g) +onion(~60g) +garlic(~0g) +water(~100-ml; 16:56) +onion(50g; 17:02) +cucumber(60g; 'bought: 2021/06/28; from-home') +garlic(~19g; 17:07) +oil(40-ml; 17:08) +onion(~40g) +water(~80-ml; 17:10) +salt(1-ml; 17:11)); ("~31*1.03+26*1.00+40*0.8+149*0.5+20*0.85+81*3 = ~505 kcal; boiling: ; fry: ; stop: 17:18; note: ' boiled in ~metal-pan years long ~tefal; boils for about 30 minutes usually '; ")
+16:52 prepare: boiled_fried_vegetables_1 = fry(beetroot(90g) +carrot(60g) +onion(~60g) +garlic(~0g) +water(~100-ml; 16:56) +onion(50g; 17:02) +cucumber(60g; 'bought: 2021/06/28; from-home') +garlic(~19g; 17:07) +oil(40-ml; 17:08) +onion(~40g) +water(~80-ml; 17:10) +salt(1-ml; 17:11)); ("~31*1.03+26*1.00+40*0.8+149*0.5+20*0.85+81*3 = ~505 kcal; boiling: ; fry: ; stop: 17:18; note: ' boiled in ~metal-pan years long ~tefal; boils for about 30 minutes usually '; ")
 
 17:27 status: " water 3-litre heating: ; boil: ; filled at ... from kitchen tap; boil for ~10 min. or more "
 
-17:36 eating: egg_bomeal_1iled_1() +salt(~0.25-ml); ("~51+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+17:36 eating: boiled_fried_vegetables_1() +salt(~0.25-ml); ("~51+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
 17:41 status: calorie-calculated: "~000 + 000 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
 
 18:46 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
@@ -32,17 +32,18 @@
 22:58 status: " pancreas-pain hurts sometimes and had that disturbance at ~21:54 and even before " [write-time: 2021.06.29 22:58:56] 
 22:58 status: " pancreas-disturbance [that side on the body] began after ~walk " [write-time: 2021.06.29 23:00:26] 
 
-23:02 prepare: tea_1 = brew(cucumber(30g; 'bought: 2021/06/28') +tea(1-ts) +water(~250-ml; '~99°C or just hot')); ("note: ' tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+23:02 prepare: tea_with_cucumer_1 = brew(cucumber(30g; 'bought: 2021/06/28') +water(~250-ml; '~99°C or just hot') +tea(1-ts; 23:15)); (" stop: 23:16; note: ' tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+
+" as weird as possible [isnt it ?] " [write-time: 2021.06.29 23:09:30] 
+" need some water [because pancreas or whatever] " [write-time: 2021.06.29 23:09:57] 
+
+23:22 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
 
 00000 drinking: tea_1-liquid(); ("~0 kcal; volume: ~220-ml; opinion: ' ... '; done: 00000; ");
-00000 eating: egg_boiled_1() +salt(~0.25-ml) +oil(~10-ml); ("~51+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
-00000 eating: onion(~40g), apple(~40g), oil(~20-ml); ("~51+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
-00000 eating: hazelnuts_baked_1(), peanuts_baked_1(), oil(~20-ml); ("~51+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+00000 eating: mix(eggplant(~40g) +salt(~0.5-ml) +oil(~20-ml)); ("~51+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
 00000 status: calorie-calculated: "~000 + 000 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
 
 00000 status: " ... "
-
-00000 status: " water 3-litre heating: ; boil: ; filled at ... from kitchen tap; boil for ~10 min. or more "
 
 
 
@@ -51,9 +52,9 @@
 -[goods] day-calorie: "00000, 00000, 00000, 00000, 00000, 00000, 00000 =  0 times "; 
 -[goods] tea(00-ts; '1ts=2g');
 -[goods] oil(~00-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~00-ml; '1ts=9ml=~11g');
--[pipi] 13:47, '340', 'yellow'
--[pipi] '', 
--[pipi] '', 
+-[pipi] 13:47, 
+-[pipi] '340', 
+-[pipi] 'yellow', 
 -[stool] no
 }
 
