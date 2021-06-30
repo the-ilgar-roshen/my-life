@@ -1,9 +1,8 @@
 // [2021.06.28 23:15:09] 
-// remove this line: 3918BA29CF7A8A765093DE8384BD1D7BE91DBC692B2AA1AA5D91DCBE4B9E797A
-
+// remove this line: 8D8E11D06AD71673F7CD567ACD39B778407C3497A5358A6466F11CD5597E0FEB
 
 --------------------------------------------------------------------------------
-27.06.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+28.06.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
 
 12:50 start (woke-up: 11:31, 12:48; active-thinking: 1; active: 1; stand-up: 12:50)
 
